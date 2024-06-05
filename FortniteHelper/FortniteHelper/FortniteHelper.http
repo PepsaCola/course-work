@@ -1,0 +1,6 @@
+@FortniteHelper_HostAddress = http://localhost:5010
+
+GET {{FortniteHelper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

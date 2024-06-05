@@ -1,0 +1,527 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\constats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\constats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\clients\\showmystatsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\clients\\showmystatsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\clients\\ideletemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\clients\\ideletemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\controllers\\deletemystatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\controllers\\deletemystatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\clients\\getstatsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\clients\\getstatsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\clients\\getshopclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\clients\\getshopclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\clients\\getnewsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\clients\\getnewsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\controllers\\getmapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\controllers\\getmapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\clients\\deletemystatsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\clients\\deletemystatsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\clients\\updatemystatsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\clients\\updatemystatsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\controllers\\getnewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\controllers\\getnewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\controllers\\getshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\controllers\\getshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\models\\shopmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\models\\shopmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\clients\\mystatsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\clients\\mystatsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\controllers\\postmystatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\controllers\\postmystatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\controllers\\updatemystatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\controllers\\updatemystatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\models\\getmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\models\\getmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\controllers\\showmystatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\controllers\\showmystatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\controllers\\getstatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\controllers\\getstatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\models\\newsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\models\\newsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\clients\\imystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\clients\\imystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\clients\\mapclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\clients\\mapclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\clients\\iupdatemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\clients\\iupdatemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\clients\\ishowmystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\clients\\ishowmystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\models\\getstatsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\models\\getstatsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|c:\\users\\user\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\fortnitehelper\\fortnitehelper\\fortnitehelper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E091374-43AE-42D2-A7D5-EC53780D859E}|FortniteHelper\\FortniteHelper.csproj|solutionrelative:fortnitehelper\\fortnitehelper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteMyStatsClient.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\DeleteMyStatsClient.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Clients\\DeleteMyStatsClient.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\DeleteMyStatsClient.cs",
+              "RelativeToolTip": "FortniteHelper\\Clients\\DeleteMyStatsClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:51:17.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetMapController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Controllers\\GetMapController.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Controllers\\GetMapController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Controllers\\GetMapController.cs",
+              "RelativeToolTip": "FortniteHelper\\Controllers\\GetMapController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:12:16.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetNewsClient.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\GetNewsClient.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Clients\\GetNewsClient.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\GetNewsClient.cs",
+              "RelativeToolTip": "FortniteHelper\\Clients\\GetNewsClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:03:04.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Constats.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Constats.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Constats.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Constats.cs",
+              "RelativeToolTip": "FortniteHelper\\Constats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:32:48.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClassDiagram.cd",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\ClassDiagram.cd",
+              "RelativeDocumentMoniker": "FortniteHelper\\ClassDiagram.cd",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\ClassDiagram.cd",
+              "RelativeToolTip": "FortniteHelper\\ClassDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-06-04T13:37:31.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetShopClient.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\GetShopClient.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Clients\\GetShopClient.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\GetShopClient.cs",
+              "RelativeToolTip": "FortniteHelper\\Clients\\GetShopClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:29:18.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetStatsClient.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\GetStatsClient.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Clients\\GetStatsClient.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\GetStatsClient.cs",
+              "RelativeToolTip": "FortniteHelper\\Clients\\GetStatsClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:29:22.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteMyStatsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Controllers\\DeleteMyStatsController.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Controllers\\DeleteMyStatsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Controllers\\DeleteMyStatsController.cs",
+              "RelativeToolTip": "FortniteHelper\\Controllers\\DeleteMyStatsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:51:01.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDeleteMyStats.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\IDeleteMyStats.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Clients\\IDeleteMyStats.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\IDeleteMyStats.cs",
+              "RelativeToolTip": "FortniteHelper\\Clients\\IDeleteMyStats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:14:46.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowMyStatsClient.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\ShowMyStatsClient.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Clients\\ShowMyStatsClient.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\ShowMyStatsClient.cs",
+              "RelativeToolTip": "FortniteHelper\\Clients\\ShowMyStatsClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:09:15.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Program.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Program.cs",
+              "RelativeToolTip": "FortniteHelper\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:23:32.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetNewsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Controllers\\GetNewsController.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Controllers\\GetNewsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Controllers\\GetNewsController.cs",
+              "RelativeToolTip": "FortniteHelper\\Controllers\\GetNewsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:18:17.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateMyStatsClient.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\UpdateMyStatsClient.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Clients\\UpdateMyStatsClient.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\UpdateMyStatsClient.cs",
+              "RelativeToolTip": "FortniteHelper\\Clients\\UpdateMyStatsClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:13:18.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetShopController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Controllers\\GetShopController.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Controllers\\GetShopController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Controllers\\GetShopController.cs",
+              "RelativeToolTip": "FortniteHelper\\Controllers\\GetShopController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:28:20.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShopModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Models\\ShopModel.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Models\\ShopModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Models\\ShopModel.cs",
+              "RelativeToolTip": "FortniteHelper\\Models\\ShopModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:08:19.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShowMyStatsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Controllers\\ShowMyStatsController.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Controllers\\ShowMyStatsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Controllers\\ShowMyStatsController.cs",
+              "RelativeToolTip": "FortniteHelper\\Controllers\\ShowMyStatsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:08:47.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetMap.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Models\\GetMap.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Models\\GetMap.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Models\\GetMap.cs",
+              "RelativeToolTip": "FortniteHelper\\Models\\GetMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:38:38.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateMyStatsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Controllers\\UpdateMyStatsController.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Controllers\\UpdateMyStatsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Controllers\\UpdateMyStatsController.cs",
+              "RelativeToolTip": "FortniteHelper\\Controllers\\UpdateMyStatsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:13:42.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MyStatsClient.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\MyStatsClient.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Clients\\MyStatsClient.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\MyStatsClient.cs",
+              "RelativeToolTip": "FortniteHelper\\Clients\\MyStatsClient.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwDYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:51:27.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PostMyStatsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Controllers\\PostMyStatsController.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Controllers\\PostMyStatsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Controllers\\PostMyStatsController.cs",
+              "RelativeToolTip": "FortniteHelper\\Controllers\\PostMyStatsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:12:34.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetStatsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Controllers\\GetStatsController.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Controllers\\GetStatsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Controllers\\GetStatsController.cs",
+              "RelativeToolTip": "FortniteHelper\\Controllers\\GetStatsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:29:54.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NewsModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Models\\NewsModel.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Models\\NewsModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Models\\NewsModel.cs",
+              "RelativeToolTip": "FortniteHelper\\Models\\NewsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:07:50.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IMyStats.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\IMyStats.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Clients\\IMyStats.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\IMyStats.cs",
+              "RelativeToolTip": "FortniteHelper\\Clients\\IMyStats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:24:35.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUpdateMyStats.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\IUpdateMyStats.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Clients\\IUpdateMyStats.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\IUpdateMyStats.cs",
+              "RelativeToolTip": "FortniteHelper\\Clients\\IUpdateMyStats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:30:15.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MapClient.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\MapClient.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Clients\\MapClient.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\MapClient.cs",
+              "RelativeToolTip": "FortniteHelper\\Clients\\MapClient.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:49:34.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAHgUAAAAAAAAAAAkwIUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-30T19:32:44.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IShowMyStats.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\IShowMyStats.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Clients\\IShowMyStats.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Clients\\IShowMyStats.cs",
+              "RelativeToolTip": "FortniteHelper\\Clients\\IShowMyStats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:31:13.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Models\\Message.cs",
+              "RelativeToolTip": "FortniteHelper\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:35:49.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetStatsModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Models\\GetStatsModel.cs",
+              "RelativeDocumentMoniker": "FortniteHelper\\Models\\GetStatsModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\Models\\GetStatsModel.cs",
+              "RelativeToolTip": "FortniteHelper\\Models\\GetStatsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:29:36.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FortniteHelper.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\FortniteHelper.csproj",
+              "RelativeDocumentMoniker": "FortniteHelper\\FortniteHelper.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\course-work\\FortniteHelper\\FortniteHelper\\FortniteHelper.csproj",
+              "RelativeToolTip": "FortniteHelper\\FortniteHelper.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T08:37:20.722Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

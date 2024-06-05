@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FortniteHelper.Program">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FortniteHelper.Constats">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAgAAAAAABAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Constats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FortniteHelper.Clients.DeleteMyStatsClient">
+    <Position X="1.75" Y="5.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAABAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clients\DeleteMyStatsClient.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FortniteHelper.Clients.GetNewsClient">
+    <Position X="7.25" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAABAAAAAEAAAAA=</HashCode>
+      <FileName>Clients\GetNewsClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FortniteHelper.Clients.GetShopClient">
+    <Position X="12.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAABAAAAAEAAAAA=</HashCode>
+      <FileName>Clients\GetShopClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FortniteHelper.Clients.GetStatsClient">
+    <Position X="16.5" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAACAAAAAAAAEABAAA=</HashCode>
+      <FileName>Clients\GetStatsClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FortniteHelper.Clients.MapClient">
+    <Position X="4.75" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAEAAAAAAAAAAAAAACAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Clients\MapClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FortniteHelper.Clients.MyStatsClient">
+    <Position X="9.75" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAIAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clients\MyStatsClient.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FortniteHelper.Clients.ShowMyStatsClient">
+    <Position X="14.25" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAQIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clients\ShowMyStatsClient.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FortniteHelper.Clients.UpdateMyStatsClient">
+    <Position X="19" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clients\UpdateMyStatsClient.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FortniteHelper.Controllers.DeleteMyStatsController">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAgAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\DeleteMyStatsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FortniteHelper.Controllers.GetMapController">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Controllers\GetMapController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FortniteHelper.Controllers.GetNewsController">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\GetNewsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FortniteHelper.Controllers.GetShopController">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\GetShopController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FortniteHelper.Controllers.GetStatsController">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Controllers\GetStatsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FortniteHelper.Controllers.PostMyStatsController">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAgAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\PostMyStatsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FortniteHelper.Controllers.ShowMyStatsController">
+    <Position X="21" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAIAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Controllers\ShowMyStatsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FortniteHelper.Controllers.UpdateMyStatsController">
+    <Position X="22.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAgAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\UpdateMyStatsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.AspNetCore.Mvc.Controller">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Microsoft.AspNetCore.Mvc.ControllerBase" Collapsed="true">
+    <Position X="14.75" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="FortniteHelper.Clients.IDeleteMyStats">
+    <Position X="5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clients\IDeleteMyStats.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FortniteHelper.Clients.IMyStats">
+    <Position X="10" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clients\IMyStats.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FortniteHelper.Clients.IShowMyStats">
+    <Position X="14.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clients\IShowMyStats.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FortniteHelper.Clients.IUpdateMyStats">
+    <Position X="19.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clients\IUpdateMyStats.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
